@@ -1,6 +1,6 @@
-# 📊 [Nome do Seu Projeto de Dados]
+# 📊 Ciência de Dados Aplicada ao Marketing Esportivo
 
-> **[Uma frase curta e direta explicando o impacto do projeto. Ex: Modelo preditivo de Churn integrado a um painel analítico para redução de perdas de clientes.]**
+> **[Refutando o Viés Ofensivo da Bola de Ouro 2019 (Van Dijk vs. Messi) via Framework CRISP-DM]**
 
 ---
 
